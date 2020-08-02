@@ -1,5 +1,10 @@
 def create_an_empty_array
+<<<<<<< HEAD
   []
+=======
+  empty_array[]
+  return empty_array
+>>>>>>> 530f6a6357a6bec1935423db836cbb2562fdb2a7
 end
 
 def create_an_array
